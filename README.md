@@ -30,12 +30,13 @@ pip install pandas numpy scikit-learn matplotlib seaborn
 ```
 
 How to Run the Notebook
-Clone this repository to your local machine.
-Install the required dependencies.
-Open the Jupyter notebook Customer_Behaviour_Tourism_v1.ipynb.
-Run all the cells to generate the analysis.
+- Clone this repository to your local machine.
+- Install the required dependencies.
+- Open the Jupyter notebook Customer_Behaviour_Tourism_v1.ipynb.
+- Run all the cells to generate the analysis.
+- 
 Results
-The notebook provides insights into customer behavior trends and analysis in the tourism industry, helping to identify key patterns and potential areas for improving customer engagement.
+- The notebook provides insights into customer behavior trends and analysis in the tourism industry, helping to identify key patterns and potential areas for improving customer engagement.
 
 Contributing
-This project is an example use case, and contributions to improve the analysis are welcome. If you want to contribute, please contact the project owner for permission before making any changes.
+- This project is an example use case, and contributions to improve the analysis are welcome. If you want to contribute, please contact the project owner for permission before making any changes.
